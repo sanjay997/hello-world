@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_o1Vy0B_WEeqGYaJnZHll_Q" label="sanjay" description="aws talend" language="java" technicalLabel="SANJAY" author="_o1Vy0R_WEeqGYaJnZHll_Q" productVersion="Talend Cloud Data Management Platform-7.2.1.20190909_1200_patch" url="{&quot;location&quot;:&quot;https://github.com/sanjay997/hello-world&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_p6VsAB_WEeqGYaJnZHll_Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_o1Vy0R_WEeqGYaJnZHll_Q" login="sanjayani97@trial02171.ap.talend.com" firstName="sanjay" lastName="kumar" type="DQ"/>
+</xmi:XMI>
